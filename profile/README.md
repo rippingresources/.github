@@ -3,4 +3,4 @@ Ripping Resources is a Discord server made to share and give feedback on resourc
 
 ## Links
 [Discord Invite](https://discord.com/invite/RKapMTC7SK) |
-[FLP Archive](https://rippingresources.github.io)
+[FLP Archive](https://archive.resources.rip)
